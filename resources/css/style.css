@@ -1,32 +1,33 @@
 body{
   text-align: center;
-
 }
 
 h1{
-  font-family: Helvetica;
+  font-family: "Helvetica";
   font-size: 70px;
   font-weight: bold;
   color: white;
   font-style:
 }
+
 .menu {
   font-family: Helvetica;
   font-size: 18px;
   color: white;
-background-color: #f80;
-background-image: url("resources\image\the-flatiron-building.png");
-font-weight: bold;
-
+  background-image: url("../image/the-flatiron-building.png");
+  font-weight: bold;
 }
 
-.menu p{
- color: white;
- text-decoration: underline;
-
+.btn-nav {
+  font-size: 18px;
+  color: white;
 }
 
 h3{
   font-weight: bold;
- font-size: 23px;
+  font-size: 23px;
+}
+
+.designed {
+  background-image: url("../image/the-flatiron-building.png");
 }
